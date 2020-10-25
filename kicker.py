@@ -26,7 +26,7 @@ async def botcuBot(op):
                     if x not in [op.param2,botcu.profile.mid]:targk.append(x)
                     xbot = 'dual.js gid={} token={}'.format(op.param1, botcu.authToken)
                     for x in targk:xbot += ' uik={}'.format(x)
-                    execute_js(imkhie)
+                    execute_js(xbot)
 def run():
     while True:
             ops = botcuPoll.singleTrace(count=50)
