@@ -4,3 +4,4 @@ Hello thanks for using my kicker it's so easy to use just clone and the copy you
 
 
 Selam kicker botu kullandiğniz için teşekkur ederiz dosyayı çekip sonra cd kickerjs-python3 kicker.py
+ 
